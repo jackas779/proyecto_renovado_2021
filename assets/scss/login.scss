@@ -1,0 +1,14 @@
+//variables
+@import 'abstract/mixins.scss';
+
+// mixin
+@import 'abstract/variables.scss';
+
+//views
+@import 'views/login_componets/body.scss';
+@import 'views/login_componets/card';
+
+//base
+
+@import 'base/home';
+

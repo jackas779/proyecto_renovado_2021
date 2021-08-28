@@ -1,1 +1,0 @@
-{"version":3,"sources":["indes.scss"],"names":[],"mappings":"AACA,kCAAY,CAGZ,qCAAY,CAGZ,mBAAY","file":"indes.css","sourcesContent":["//variables\r\n@import url(abstract/_mixins.scss);\r\n\r\n// mixin\r\n@import url(abstract/_variables.scss);\r\n\r\n//views\r\n@import url(views/);"]}

@@ -1,2 +1,0 @@
-.container_slider{position:relative;left:280px;width:calc(100% - 280px)}.container_slider__img ul{margin:0}.container_slider__img ul li{list-style:none;text-align:center}.container_slider__img ul li input[type=radio],.container_slider__img ul li input[type=radio]:checked~img{opacity:1}.container_slider__img ul li img{position:absolute;width:50%;height:100px;top:0;left:0;opacity:0}
-/*# sourceMappingURL=slider.css.map */

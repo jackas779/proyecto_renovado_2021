@@ -3,10 +3,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgba(53, 41, 212, 0.568);
 }
 .card_container {
-  margin: 4em auto;
   width: 65%;
+  box-shadow: 10px 10px 60px rgb(96, 61, 250);
 
   @include resposibo(tablet) {
     width: 60%;
